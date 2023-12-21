@@ -1,6 +1,6 @@
 #include "sdt.h"
 using namespace std;
-
+//программа является учебной
 int main()
 {
 	cout << "Enter A and B: ";
